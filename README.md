@@ -45,20 +45,6 @@ To get a local copy up and running, follow these simple steps:
 
 5. Open [http://localhost:3000](http://localhost:3000) in your browser to view the website.
 
-## Contribution Guidelines
-
-Contributions are what make the open-source community such a fantastic place to learn, create, and collaborate. Any contributions you make are **highly appreciated**.
-
-To contribute:
-
-1. Fork the repository.
-2. Create your feature branch (`git checkout -b feature/YourAmazingFeature`).
-3. Commit your changes (`git commit -m 'Add YourAmazingFeature'`).
-4. Push to the branch (`git push origin feature/YourAmazingFeature`).
-5. Open a pull request.
-
-Please feel free to propose changes by creating issues or opening pull requests.
-
 ## License
 
 This project is open source and available under the [MIT License](LICENSE.txt).
