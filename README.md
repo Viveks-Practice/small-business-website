@@ -66,7 +66,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Your Name – [@your_twitter](https://twitter.com/your_username) - email@example.com
 
-Project Link: [https://github.com/your-username/la-focacceria](https://github.com/your-username/la-focacceria)
+Project Link: [https://github.com/viveks-practice/small-business-website](https://github.com/viveks-practice/small-business-website)
 
 ## Acknowledgments
 
