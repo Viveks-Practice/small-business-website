@@ -1,5 +1,7 @@
 # Small Business Website Example
 
+Live Website (In Progress): https://main.d1lmogznhtltfk.amplifyapp.com/
+
 This project serves as a template for small business websites, providing a modern, elegant, and user-centric online presence. La Focacceria is presented as a sample implementation of this template for an Italian bakery. It demonstrates key features and design principles that can be adapted for various small businesses.
 
 ## Features
