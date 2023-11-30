@@ -36,3 +36,7 @@
     transform: rotate(360deg);
   }
 }
+
+.header-spacer {
+  height: 140px; /* Set this to the height of your Header component */
+}
