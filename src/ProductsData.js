@@ -267,7 +267,7 @@ export const initialProducts = [
   },
   {
     id: 31,
-    title: "Raspberry Tart",
+    title: "Raspberry Fart",
     price: "$5.50",
     description:
       "Indulge in the vibrant taste of our Raspberry Tart. This exquisite dessert features a buttery, flaky crust filled with fresh, juicy raspberries nestled in a smooth, creamy custard. It's a symphony of textures and flavors that's simply irresistible.",
