@@ -64,3 +64,4 @@ Project Repository: [https://github.com/viveks-practice/small-business-website](
 - [Font Awesome](https://fontawesome.com)
 - [React](https://reactjs.org/)
 - [Choose an Open Source License](https://choosealicense.com)
+# canadas-art-store
